@@ -36,6 +36,7 @@
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=json&logoColor=white" alt="REST API" /></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
   <a href="https://jwt.io/" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" /></a>
   <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" /></a>
