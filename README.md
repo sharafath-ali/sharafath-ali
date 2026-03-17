@@ -6,6 +6,7 @@
 ## Skills & Expertise
 
 ### Programming Languages
+
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
@@ -13,6 +14,7 @@
 </p>
 
 ### Architecture & System Design
+
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Systems_design" target="_blank"><img src="https://img.shields.io/badge/System%20Design-005571?style=for-the-badge&logo=architecture&logoColor=white" alt="System Design" /></a>
   <a href="https://microservices.io/" target="_blank"><img src="https://img.shields.io/badge/Microservices-008ECF?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" /></a>
@@ -23,6 +25,7 @@
 </p>
 
 ### Frontend Development
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
@@ -33,6 +36,7 @@
 </p>
 
 ### Backend & Database
+
 <p align="left">
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
@@ -47,6 +51,7 @@
 </p>
 
 ### Testing & Tools
+
 <p align="left">
   <a href="https://playwright.dev/" target="_blank"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /></a>
   <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
@@ -55,6 +60,7 @@
 </p>
 
 ### Cloud, DevOps & Integrations
+
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
@@ -64,8 +70,9 @@
   <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharafath-ali&show_icons=true&locale=en&layout=compact" alt="sharafath-ali" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharafath-ali&show_icons=true&locale=en" alt="sharafath-ali" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafath-ali&" alt="sharafath-ali" /></p>
+<p align="left">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sharafath-ali&show_icons=true&theme=radical" alt="sharafath-ali's GitHub Stats" /> -->
+    <img src="https://streak-stats.demolab.com/?user=sharafath-ali&theme=radical" alt="GitHub Streak" />
+      &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharafath-ali&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+</p>
