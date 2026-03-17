@@ -3,15 +3,7 @@
 
 - 📫 How to reach me **https://linkedin.com/in/sharafathalivk**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sharafathalivk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharafathalivk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharafathali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharafathali" height="30" width="40" /></a>
-</p>
-
-## 🚀 Main Skills & Expertise
-
-<br/>
+## Skills & Expertise
 
 ### Programming Languages
 <p align="left">
@@ -24,7 +16,10 @@
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Systems_design" target="_blank"><img src="https://img.shields.io/badge/System%20Design-005571?style=for-the-badge&logo=architecture&logoColor=white" alt="System Design" /></a>
   <a href="https://microservices.io/" target="_blank"><img src="https://img.shields.io/badge/Microservices-008ECF?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" /></a>
+  <a href="https://en.wikipedia.org/wiki/Monolithic_application" target="_blank"><img src="https://img.shields.io/badge/Monolithic_Architecture-4B0082?style=for-the-badge&logo=monolithic&logoColor=white" alt="Monolith" /></a>
   <a href="https://en.wikipedia.org/wiki/Program_optimization" target="_blank"><img src="https://img.shields.io/badge/Performance%20Optimization-FF6B6B?style=for-the-badge&logo=speedtest&logoColor=white" alt="Performance Optimization" /></a>
+  <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller" target="_blank"><img src="https://img.shields.io/badge/MVC_Pattern-810A1E?style=for-the-badge&logo=codeigniter&logoColor=white" alt="MVC Pattern" /></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/API_Design-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="API Design" /></a>
 </p>
 
 ### Frontend Development
